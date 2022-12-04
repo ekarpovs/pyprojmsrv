@@ -1,0 +1,12 @@
+.vscode
+.pyprojmsrv-venv
+
+dist
+docs
+
+src/pyprojmsrv/__pycache__
+src/pyprojmsrv.egg-info
+
+tests/__pycache__
+
+*.bak
