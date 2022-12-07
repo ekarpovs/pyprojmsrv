@@ -24,4 +24,3 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/ekarpovs/python-project-micro-service-template"
 "Bug Tracker" = "https://github.com/ekarpovs/python-project-micro-service-template/issues"
-
