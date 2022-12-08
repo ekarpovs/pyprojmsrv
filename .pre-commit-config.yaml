@@ -25,4 +25,4 @@ repos:
         language: system
         always_run: false
         files: requirements.in|setup.py$
-#        stages: [push]
+        stages: [push]
