@@ -8,5 +8,5 @@ src/pyprojmsrv/__pycache__
 src/pyprojmsrv.egg-info
 
 tests/__pycache__
-
+dev-env.txt
 *.bak
