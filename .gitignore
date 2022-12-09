@@ -1,5 +1,6 @@
 .vscode
 .pyprojmsrv-venv
+.coverage
 
 dist
 docs
