@@ -1,13 +1,22 @@
 .vscode
 .pyprojmsrv-venv
+
 .coverage
+*.py,cover
+.pytest_cache
+htmlcov
 
 dist
 docs
+
+__pycache__
 
 src/pyprojmsrv/__pycache__
 src/pyprojmsrv.egg-info
 
 tests/__pycache__
+
+# Temporary files
 dev-env.txt
 *.bak
+ex.md
