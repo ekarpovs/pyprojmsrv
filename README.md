@@ -1,3 +1,6 @@
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
+
 # Python seed project for microservices (pyprojmsrv)
 
 ## Project structure
@@ -6,10 +9,9 @@
 ├── .github
 │   └── workflows
 │       └── ci-cd.yaml
-├── src
-│   ├── pyprojmsrv
+├── pyprojmsrv
 │       ├── __init__.py
-│       └── pyprojmsrv.py
+│       └── msrv.py
 ├── tests
 │   ├── __init__.py
 │   └── test_pyprojmsrv.py

@@ -1,10 +1,10 @@
 .vscode
 .pyprojmsrv-venv
 
+reports
 .coverage
 *.py,cover
 .pytest_cache
-htmlcov
 
 dist
 docs

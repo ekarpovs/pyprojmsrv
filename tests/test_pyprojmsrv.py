@@ -3,17 +3,17 @@ Template's unit tests
 """
 
 
-from src.pyprojmsrv import pyprojmsrv
+from pyprojmsrv import msrv
 
 
 def test_main():
     """Test main"""
 
-    pyprojmsrv.main()
+    msrv.main()
 
 
 def test_greeting():
     """Test greeting"""
 
-    output = pyprojmsrv.greeting("ppmstest")
+    output = msrv.greeting("ppmstest")
     assert output == "Hello ppmstest"
