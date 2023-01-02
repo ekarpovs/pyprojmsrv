@@ -1,14 +1,13 @@
 # .coveragerc to control coverage.py
 
 [run]
-command_line = -m pytest -v tests
-source = .
-    #pyprojmsrv
+#command_line = -m pytest -v tests
+source = /pyprojmsrv/
 omit =
     # omit this single file
     #setup.py
     # omit everything in /tests
-    tests/*
+    */tests/*
 
 
 [report]
@@ -16,7 +15,7 @@ omit =
     # omit this single file
     setup.py
     # omit everything in /tests
-    tests
+    #tests
 
 [html]
 directory = reports/covhtml
