@@ -48,12 +48,12 @@ repos:
       language: system
       types: [python]
       stages: [commit]
-    # - id: report-html
-    #   name: create coverage report html
-    #   entry: coverage html
-    #   language: system
-    #   types: [python]
-    #   stages: [push]
+    - id: report-html
+      name: create coverage report html
+      entry: coverage html
+      language: system
+      types: [python]
+      stages: [push]
     # - id: report-xml
     #   name: create coverage report xml
     #   entry: coverage xml
