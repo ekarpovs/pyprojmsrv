@@ -1,5 +1,6 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
+[![ci-cd](https://github.com/ekarpovs/pyprojmsrv/actions/workflows/ci-cd.yaml/badge.svg)](https://github.com/ekarpovs/pyprojmsrv/actions/workflows/ci-cd.yaml)
 
 # Python seed project for microservices (pyprojmsrv)
 
